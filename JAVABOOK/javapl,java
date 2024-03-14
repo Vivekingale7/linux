@@ -1,0 +1,6 @@
+
+c:wq
+class Stocks {
+
+	int x = 10 ;
+
